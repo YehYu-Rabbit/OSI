@@ -1,0 +1,19 @@
+OSI 模型
+'''
+OSI分成7層，從1底部開始由下往上到7
+'''
+第一層
+實體層（Physical Layer）
+第二層
+資料連結層（Data Link Layer）傳輸層（Transport Layer）        TCP UDP
+第三層
+網路層（Network Layer）
+第四層
+傳輸層（Transport Layer）        TCP UDP
+第五層
+會議層（Session Layer）
+第六層
+表達層（Presentation Layer）
+第七層
+應用層（Application Layer）
+'''
